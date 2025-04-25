@@ -145,7 +145,7 @@ nav{
     }
 
     .conteudo-home{
-        width: 80%;
+        width: 100%;
         height: 80vh;
         gap: 16px;
        
@@ -179,8 +179,17 @@ nav{
         width: 26px; 
     }
 
+    .container-gereal{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+    }
+
     .conteudo-home{
-        width: 80%;
+        width: 100%;
         height: 80vh;
         gap: 25px;
        
@@ -208,12 +217,23 @@ nav{
     .logo-div h1{
         font-size: 27px;
     }
+
+
     .opcoes-div img {
         width: 28px; 
     }
 
+    .container-gereal{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+    }
+
     .conteudo-home{
-        width: 80%;
+        width:100%;
         height: 80vh;
         gap: 23px;
        
@@ -246,9 +266,17 @@ nav{
     .opcoes-div img {
         width: 33px; 
     }
+    .container-gereal{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+    }
 
     .conteudo-home{
-        width: 80%;
+        width: 100%;
         height: 80vh;
         gap: 20px;
        
@@ -281,9 +309,17 @@ nav{
     .opcoes-div img {
         width: 33px; 
     }
+    .container-gereal{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    
+    }
 
     .conteudo-home{
-        width: 80%;
+        width: 100%;
         height: 80vh;
         gap:40px;
        
